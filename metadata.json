@@ -1,0 +1,7 @@
+{
+  "name": "Sneaky Collectible",
+  "description": "An application to track your Bearbrick, coin, and banknote collections. It provides completion rates for your collections, identifies missing items, and uses Gemini to estimate the value of your collectibles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
